@@ -1,7 +1,8 @@
-work=int(input())
-if(work>0):
+n1=int(input())
+if(n1>0):
   print("Positive")
-elif(work<o):
+elif(n1<o):
   print("Negative")
 else:
   print("Zero")
+  
